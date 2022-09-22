@@ -6,9 +6,9 @@ This repo holds the code for the group LEMJ (Lori, Emanuele, Mattia and Julio) t
 
 Let's follow very simple best practices and code reviewing techniques to make our life easier:
 
-1. If you want to add a feature/some code to the project create a new branch from the master branch. This branch should have a meaningfull name e.g. "julio-data-cleaning". Work on this branch until your code is ready for review.
-2. Once you have **tested** your code and have also run black on top (only for python scripts, not notebooks. See black description below) create a pull request (PR) to merge your branch to the master branch. In this PR, add as "reviewers" at least two members of the team that you think should review your code. This workflow allows the coder to have some feedback from collegues and prevent not desiried pushes to production.
-3. If you get your PR approved, you can merge your branch to master and your code will be in "production"
+1. If you want to add a feature/some code to the project create a new branch from the main branch. This branch should have a meaningfull name e.g. "julio-data-cleaning". Work on this branch until your code is ready for review.
+2. Once you have **tested** your code and have also run black on top (only for python scripts, not notebooks. See black description below) create a pull request (PR) to merge your branch to the main branch. In this PR, add as "reviewers" at least two members of the team that you think should review your code. This workflow allows the coder to have some feedback from collegues and prevent not desiried pushes to production.
+3. If you get your PR approved, you can merge your branch to main and your code will be in "production"
 
 NOTES:
 
