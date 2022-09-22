@@ -2,7 +2,7 @@
 
 This repo holds the code for the group LEMJ (Lori, Emanuele, Mattia and Julio) through the different assignments of FDS course at UVA 2022.
 
-## Worflow
+## Workflow
 
 Let's follow very simple best practices and code reviewing techniques to make our life easier:
 
